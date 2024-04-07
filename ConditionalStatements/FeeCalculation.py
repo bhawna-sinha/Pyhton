@@ -1,16 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
 """practice question
  print output for -
 1. A = 5 & G = M
