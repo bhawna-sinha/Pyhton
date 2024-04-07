@@ -1,7 +1,21 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
 """practice question
  print output for -
 1. A = 5 & G = M
-2. A=2 & G = F"""
+2. A = 2 & G = M
+3. A = 4 & G = F"""
 
 A = int(input("A"))
 G = input("M/F :")
